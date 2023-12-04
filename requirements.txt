@@ -1,0 +1,9 @@
+streamlit
+pandas
+pydeck
+folium
+streamlit_folium
+matplotlib
+scikit-learn
+seaborn
+Pillow
