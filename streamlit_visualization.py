@@ -1,5 +1,6 @@
 import pip
 pip.main(['install', 'folium'])
+pip.main(['install', 'html5lib'])
 import streamlit as st
 import pandas as pd
 import pydeck as pdk
